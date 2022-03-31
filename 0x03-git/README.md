@@ -1,1 +1,1 @@
-My first 0x03-git readme so_cool
+My first 0x03-git readme
