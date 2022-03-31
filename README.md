@@ -1,2 +1,2 @@
 My first readme
-My first readme on github.com
+My first readme, so cool
